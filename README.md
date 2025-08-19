@@ -48,15 +48,31 @@ Here are the technologies I work with:
 
 ---
 
+## 📚 Education
+- **MSc Data Science** — Christ University, Bengaluru (2024–2026)
+- **BSc Statistics** — Assam University, Assam (2020-2023)
+  - Graduated with a percentage of 90.07%.
+
+---
+
+## 🏅 Achievements & Certifications
+- **Gold Medalist** — Awarded for academic excellence in BSc Statistics.
+- **Python for Data Science, AI & Development** — IBM (2024)
+- **Microsoft Power BI for Business Intelligence** — Udemy (2025)
+- **R for Data Science** — Coursera (2024)
+- **The Complete 2024 Web Development Bootcamp** — Udemy (2024)
+
+---
+
 ## 🧑‍💻 Featured Projects
 
-### LakshyaAI - AI-Powered Career Development Platform ( Aug 2025)
+### LakshyaAI - AI-Powered Career Development Platform (2024)
 - Designed an AI career platform for Indian youth with resume parsing, SBERT-based job matching, and personalized skill gap analysis.
 - Built a multilingual Hinglish chatbot, integrated SHAP-based fairness auditing, and deployed the solution via Streamlit with a Python + MongoDB backend.
 - **🛠️ Tools Used:** SBERT, FAISS, spaCy, SHAP, MongoDB, Python, Streamlit
 - ---
 
-### PaperScout+ - Topic-Aware Academic Paper Recommender (Aug 2024)
+### PaperScout+ - Topic-Aware Academic Paper Recommender (2024)
 - Built a multi-source recommender integrating semantic similarity, citation analysis, and recency for academic papers.
 - Implemented FAISS embeddings for fast retrieval, caching, deduplication, and citation exports.
 - **🛠️ Tools Used:** Python, NLP, Streamlit, Sentence-BERT, FAISS, SQLite, APIs
@@ -64,7 +80,7 @@ Here are the technologies I work with:
 
 ---
 
-### AttriNet – Predictive HR Attrition Intelligence ( Aug 2025)
+### AttriNet – Predictive HR Attrition Intelligence (2024)
 - Developed ANN and TabNet models on the IBM HR dataset to predict employee attrition, achieving 84% accuracy.
 - Deployed an interactive prediction dashboard using Streamlit for HR decision-making.
 - **🛠️ Tools Used:** Python, TensorFlow, PyTorch, Scikit-learn, ANN, TabNet
@@ -72,7 +88,7 @@ Here are the technologies I work with:
 
 ---
 
-### JOBI Match — AI Resume Screening & Job Recommendation (Mar 2025)
+### JOBI Match — AI Resume Screening & Job Recommendation (2024)
 - Developed an ML-based resume screener with NLP, achieving 85% accuracy and reducing recruiter workload by 70%.
 - Integrated the Adzuna API for automated, real-time job recommendations.
 - **🛠️ Tools Used:** Python, NLP, Machine Learning, Streamlit
@@ -85,6 +101,10 @@ Here are the technologies I work with:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Neelanjan2448040&show_icons=true&theme=radical" alt="Neelanjan's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelanjan2448040&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neelanjan2448040&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
