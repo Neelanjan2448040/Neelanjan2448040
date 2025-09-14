@@ -17,6 +17,7 @@ Here are the technologies I work with:
       <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     </td>
     <td valign="top" width="50%">
       <strong>Web & Deployment:</strong><br>
@@ -70,6 +71,7 @@ Here are the technologies I work with:
 - Designed an AI career platform for Indian youth with resume parsing, SBERT-based job matching, and personalized skill gap analysis.
 - Built a multilingual Hinglish chatbot, integrated SHAP-based fairness auditing, and deployed the solution via Streamlit with a Python + MongoDB backend.
 - **🛠️ Tools Used:** SBERT, FAISS, spaCy, SHAP, MongoDB, Python, Streamlit
+- **[Repository Link](https://github.com/Neelanjan2448040/LakshyaAI)**
 - ---
 
 ### PaperScout+ - Topic-Aware Academic Paper Recommender (2024)
@@ -124,5 +126,5 @@ Here are the technologies I work with:
 ---
 
 <p align="center">
-  <i>"The goal is to turn data into information, and information into insight." - Carly Fiorina</i>
+  <i>"Without data, you're just another person with an opinion." – W. Edwards Deming</i>
 </p>
