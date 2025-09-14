@@ -1,7 +1,7 @@
 # Hi, I'm Neelanjan Dutta 👋
 ### MSc Data Science @ Christ University | Data Science Intern @ Saiket Systems
 
-I am a passionate Data Science enthusiast and an open-source contributor with a strong foundation in Statistics. I specialize in building end-to-end Machine Learning and NLP applications, transforming complex data into actionable insights and intelligent solutions.
+I am a passionate Data Science enthusiast and an open-source contributor with a strong foundation in Statistics. I specialize in building end-to-end Machine Learning, NLP, and Data Analytics applications, transforming complex data into actionable insights and intelligent solutions. I work with a variety of programming languages including Python, R, Java, JavaScript, and more, applying them to solve real-world problems.
 
 ---
 
@@ -24,6 +24,7 @@ Here are the technologies I work with:
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
     </td>
@@ -35,7 +36,10 @@ Here are the technologies I work with:
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
       <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" />
+      <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
       <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/matplotlib-F37626?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib" />
+      <img src="https://img.shields.io/badge/NLP-0A74DA?style=for-the-badge&logo=oracle&logoColor=white" alt="NLP" />
     </td>
     <td valign="top" width="50%">
       <strong>Databases & Tools:</strong><br>
@@ -72,7 +76,8 @@ Here are the technologies I work with:
 - Built a multilingual Hinglish chatbot, integrated SHAP-based fairness auditing, and deployed the solution via Streamlit with a Python + MongoDB backend.
 - **🛠️ Tools Used:** SBERT, FAISS, spaCy, SHAP, MongoDB, Python, Streamlit
 - **[Repository Link](https://github.com/Neelanjan2448040/LakshyaAI)**
-- ---
+
+---
 
 ### PaperScout+ - Topic-Aware Academic Paper Recommender (2024)
 - Built a multi-source recommender integrating semantic similarity, citation analysis, and recency for academic papers.
@@ -102,7 +107,7 @@ Here are the technologies I work with:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Neelanjan2448040&show_icons=true&theme=radical" alt="Neelanjan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelanjan2448040&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelanjan2448040&layout=compact&theme=radical&hide=TeX,HTML" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -112,6 +117,15 @@ Here are the technologies I work with:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Neelanjan2448040&theme=radical" alt="GitHub Trophies" />
 </p>
+
+---
+
+## 🌟 Other Skills & Interests
+
+- Strong problem-solving and analytical thinking
+- Collaboration and open-source contributions
+- Passion for learning and experimenting with new technologies
+- Exploring ethical AI, data privacy, and sustainable tech solutions
 
 ---
 
