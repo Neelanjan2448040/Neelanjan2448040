@@ -75,7 +75,7 @@ Here are the technologies I work with:
 - Designed an AI career platform for Indian youth with resume parsing, SBERT-based job matching, and personalized skill gap analysis.
 - Built a multilingual Hinglish chatbot, integrated SHAP-based fairness auditing, and deployed the solution via Streamlit with a Python + MongoDB backend.
 - **🛠️ Tools Used:** SBERT, FAISS, spaCy, SHAP, MongoDB, Python, Streamlit
-- **[Repository Link](https://github.com/Neelanjan2448040/LakshyaAI)**
+- **[Repository Link](https://github.com/Neelanjan2448040/LakshayAI)**
 
 ---
 
