@@ -65,16 +65,11 @@ Lately, I've been mastering **Product-Grade AI Engineering**:
 ## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Neelanjan2448040&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Neelanjan2448040&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neelanjan2448040&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelanjan2448040&layout=compact&theme=radical&hide=TeX,CSS" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Neelanjan2448040&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Neelanjan2448040&theme=radical" />
 </p>
 
 ---
@@ -82,7 +77,7 @@ Lately, I've been mastering **Product-Grade AI Engineering**:
 ## 💬 Quote of the Day
 
 <p align="center">
-  <img src="https://github-readme-quotes.vercel.app/quote?theme=radical" alt="Quote of the Day" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
