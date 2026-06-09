@@ -213,7 +213,7 @@ I enjoy building intelligent applications that bridge business strategy, analyti
 
 ## 🏆 GitHub Trophies
 <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=Neelanjan2448040&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Neelanjan2448040&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
 ---
